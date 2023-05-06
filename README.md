@@ -3,9 +3,9 @@
 <h3 align="center">Passionate Full Stack developer crafting innovative solutions with clean code and seamless user experiences.</h3>
 <img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YxZGZhM2YzOTBiMGM1NTU5NGI3ZTlhMDhjOGQ4ODFlZDBmY2IwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanneslilay&label=Profile%20views&color=0e75b6&style=flat" alt="yohanneslilay" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanneslilay&label=Profile%20views&color=0e75b6&style=flat" alt="yohanneslilay" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanneslilay" alt="yohanneslilay" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanneslilay" alt="yohanneslilay" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/lilayyohannes" target="blank"><img src="https://img.shields.io/twitter/follow/lilayyohannes?logo=twitter&style=for-the-badge" alt="lilayyohannes" /></a> </p>
 
