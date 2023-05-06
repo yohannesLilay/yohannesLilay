@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)]()
 <h1 align="center">Hi 👋, I'm Yohannes Lilay</h1>
-<h3 align="center">A passionate full stack developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YxZGZhM2YzOTBiMGM1NTU5NGI3ZTlhMDhjOGQ4ODFlZDBmY2IwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">Passionate Full Stack developer crafting innovative solutions with clean code and seamless user experiences.</h3>
+<img align="right" alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YxZGZhM2YzOTBiMGM1NTU5NGI3ZTlhMDhjOGQ4ODFlZDBmY2IwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanneslilay&label=Profile%20views&color=0e75b6&style=flat" alt="yohanneslilay" /> </p>
 
