@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/lilayyohannes" target="blank"><img src="https://img.shields.io/twitter/follow/lilayyohannes?logo=twitter&style=for-the-badge" alt="lilayyohannes" /></a> </p>
 
-- 🔭 I’m currently working on **Freight management system**
+- 🔭 I’m currently working on **MEAN Stack & AWS**
 
 - 🌱 I’m currently learning **Nest Js**
 
