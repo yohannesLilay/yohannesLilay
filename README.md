@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Nest Js & Microservices**
 
-- 👯 I’m looking to collaborate on **Fineract projects**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 - 🤝 I’m looking for help with **Test driven development & Behavior driven development**
 
-- 💬 Ask me about **MEAN Stack, Vue Js & Django**
+- 💬 Ask me about **MEAN Stack, React Js, Vue Js, Nest Js & Django**
 
 - 📫 How to reach me **yohannesLilay@gmail.com**
 
